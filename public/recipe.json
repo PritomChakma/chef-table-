@@ -1,0 +1,102 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Spaghetti Bolognese",
+    "recipe_image": "https://i.ibb.co.com/ZKh3xsb/230232-Classic-Spag-Bol-810x520.webp",
+    "short_description": "A classic Italian pasta dish with rich meat sauce.",
+    "ingredients": [
+      "500 g ground beef",
+      "400 g spaghetti",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "400 g canned tomatoes",
+      "2 tbsp olive oil",
+      "50 g Parmesan cheese"
+    ],
+    "preparing_time": 45,
+    "calories": 450
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Chicken Caesar Salad",
+    "recipe_image": "https://i.ibb.co.com/m90Ntxk/download.jpg",
+    "short_description": "A fresh salad with grilled chicken, romaine lettuce, and Caesar dressing.",
+    "ingredients": [
+      "300 g grilled chicken breast",
+      "200 g romaine lettuce",
+      "50 g croutons",
+      "30 g Parmesan cheese",
+      "100 ml Caesar dressing",
+      "1 boiled egg"
+    ],
+    "preparing_time": 25,
+    "calories": 320
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Mushroom Risotto",
+    "recipe_image": "https://i.ibb.co.com/3fPjY5J/download-1.jpg",
+    "short_description": "A creamy risotto made with fresh mushrooms and Parmesan cheese.",
+    "ingredients": [
+      "300 g Arborio rice",
+      "200 g mushrooms, sliced",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "100 ml white wine",
+      "50 g Parmesan cheese",
+      "1 liter vegetable stock"
+    ],
+    "preparing_time": 40,
+    "calories": 390
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Grilled Salmon with Asparagus",
+    "recipe_image": "https://i.ibb.co.com/sPynGg1/download-2.jpg",
+    "short_description": "Healthy grilled salmon served with fresh asparagus.",
+    "ingredients": [
+      "2 salmon fillets",
+      "200 g asparagus",
+      "2 tbsp olive oil",
+      "1 lemon, sliced",
+      "1 tsp garlic powder",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 30,
+    "calories": 350
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Beef Tacos",
+    "recipe_image": "https://i.ibb.co.com/8b4vkZ1/images.jpg",
+    "short_description": "Tasty beef tacos with fresh salsa and avocado.",
+    "ingredients": [
+      "400 g ground beef",
+      "8 taco shells",
+      "1 onion, chopped",
+      "1 tomato, diced",
+      "1 avocado, sliced",
+      "100 g shredded lettuce",
+      "100 g grated cheese"
+    ],
+    "preparing_time": 20,
+    "calories": 400
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Chocolate BrowniesChocolate Brownies",
+    "recipe_image": "https://i.ibb.co.com/XV4tWhm/images-1.jpg",
+    "short_description": "Rich and fudgy chocolate brownies.",
+    "ingredients": [
+      "200 g dark chocolate",
+      "150 g butter",
+      "250 g sugar",
+      "3 eggs",
+      "100 g flour",
+      "1 tsp vanilla extract",
+      "50 g cocoa powder"
+    ],
+    "preparing_time": 35,
+    "calories": 500
+  }
+]
