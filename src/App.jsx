@@ -1,6 +1,8 @@
 import Banner from "./Components/Banner";
 import Header from "./Components/Header";
 import OurRecepie from "./Components/OurRecepie";
+import Recepie from "./Components/Recepie";
+import Sidebar from "./Components/Sidebar";
 
 function App() {
   return (
@@ -10,7 +12,14 @@ function App() {
       {/* Banner */}
       <Banner></Banner>
       {/* Our Recepie section */}
-      <OurRecepie></OurRecepie>
+      <OurRecepie>
+        <section>
+          {/* Cart section */}
+          <Recepie></Recepie>
+          {/* sidebar Section */}
+          <Sidebar></Sidebar>
+        </section>
+      </OurRecepie>
     </div>
   );
 }
