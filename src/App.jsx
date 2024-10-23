@@ -12,14 +12,13 @@ function App() {
       {/* Banner */}
       <Banner></Banner>
       {/* Our Recepie section */}
-      <OurRecepie>
-        <section>
-          {/* Cart section */}
-          <Recepie></Recepie>
-          {/* sidebar Section */}
-          <Sidebar></Sidebar>
-        </section>
-      </OurRecepie>
+      <OurRecepie></OurRecepie>
+      <section className="md:flex gap-5">
+        {/* Cart section */}
+        <Recepie></Recepie>
+        {/* sidebar Section */}
+        <Sidebar></Sidebar>
+      </section>
     </div>
   );
 }

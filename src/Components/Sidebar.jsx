@@ -1,7 +1,7 @@
 const Sidebar = () => {
   return (
-    <div>
-      <h1>sideBar section</h1>
+    <div className="md:w-1/3">
+      <p>SideBAr</p>
     </div>
   );
 };
